@@ -1,6 +1,6 @@
 # Hi, I'm Rudaina 👋
 
-### Front-End Developer | Computer & Data Science Student
+### Front-End Developer 
 
 I’m a Front-End Developer who enjoys understanding how products work beyond their UI. I care about building applications with thoughtful architecture, clean and maintainable code, and intuitive user experiences.
 
