@@ -33,7 +33,6 @@ A platform that combines AI-powered waste classification with a recycling manage
 
 ### 📫 Connect With Me
 
-- GitHub: [@RudainaAly54](https://github.com/RudainaAly54)
 - Portfolio: [My Portfolio](https://rudaina-aly-portfolio-c343.vercel.app/)
 - LinkedIn: [Connect with me]( https://www.linkedin.com/in/rudaina-aly-6a3879312?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
